@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.sql.SQLException;
+import java.util.Date;
 
 public class Menu {
     private Almacen almacen;
